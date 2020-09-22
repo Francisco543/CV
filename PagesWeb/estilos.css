@@ -1,0 +1,85 @@
+@font-face {
+        font-family: namesilk;
+        src: url(fonts/ejemplo.ttf);
+}
+body{
+    font-size: 16px;
+    color: #ffffff;
+    background-color: gray;
+}
+
+.name{
+    font-family:namesilk;
+
+}
+
+#header-nav{
+    
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+#logo-img{
+    background: url(img/fotoPerfil.jpg)  no-repeat;
+    width: 120px;
+    height: 160px;
+    margin: 10px 15px 10px;
+    border-radius: 15px;
+    
+}
+#navegation{
+    border-radius: 15px;
+    margin-top: 25px;
+
+}
+.bg-light {
+    background-color: #f6b319 !important;
+}
+
+
+.navbar-brand h1{
+    color: gray;
+    font-family: cursive;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: .75;
+}
+.navbar-brand a:hover{
+    text-decoration: none;
+}
+
+p{
+    margin-top: 15px;
+}
+
+h2{
+    font-family: namesilk;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+h3{
+    font-family: namesilk;
+    font-size: 25px;
+    
+    padding-left: 100px;
+}
+
+#second{
+    margin-top: 50px;
+}
+
+#col1{
+    width: 210px;
+}
+#division2{
+    margin-top: 50px;
+}
+.logos{
+    height: 100px;
+    width: 100px;
+    float: inline-end;
+}
+#logitos{
+    margin-top: 50px;
+}
